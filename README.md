@@ -1,5 +1,5 @@
-# :high_brightness: Project Link ->
-    [a link](https://github.com/Md-Ali-Azad/Code_Breakers_NSU)
+# :high_brightness: Source Code Link
+[https://github.com/Md-Ali-Azad/Code_Breakers_NSU](https://github.com/Md-Ali-Azad/Code_Breakers_NSU)
 # :high_brightness: Team name : Code_Breakers
     - This Project is developed by Team <Code_Breakers> for NSU Inter University Hackathon 2020.
 ## Developers
